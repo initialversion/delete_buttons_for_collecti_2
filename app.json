@@ -1,0 +1,1 @@
+{"name":"Delete buttons for collection","repository":"https://github.com/initialversion/delete_buttons_for_collecti_2","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
